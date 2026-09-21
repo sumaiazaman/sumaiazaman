@@ -76,7 +76,7 @@ I actively contribute to the **Laravel framework** core repository. Recent merge
 
 I'm always open to interesting projects, collaborations, or just a good tech conversation.
 
-- 🌐 **Portfolio:** [sumaiaaktar.xyz](https://sumaiaaktar.xyz)
+- 🌐 **Portfolio:** [sumaia.xyz](https://sumaia.xyz)
 - 💼 **LinkedIn:** [linkedin.com/in/sumaia-aktar-57870018a](https://www.linkedin.com/in/sumaia-aktar-57870018a/)
 - 📧 **Email:** [saktar50.cse@gmail.com](mailto:saktar50.cse@gmail.com)
 - 📍 **Location:** Dhaka, Bangladesh
