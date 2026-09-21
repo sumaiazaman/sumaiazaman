@@ -4,7 +4,7 @@
 
 ### Full Stack Engineer · Laravel & Vue.js Specialist · 7+ Years Experience
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sumaiaaktar.xyz-2563eb?style=flat-square&logo=google-chrome&logoColor=white)](https://sumaiaaktar.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sumaia.xyz-2563eb?style=flat-square&logo=google-chrome&logoColor=white)](https://sumaia.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumaia_Aktar-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaia-aktar-57870018a/)
 [![Email](https://img.shields.io/badge/Email-saktar50.cse@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saktar50.cse@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-22c55e?style=flat-square)](#)
