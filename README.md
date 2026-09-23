@@ -15,7 +15,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a Full Stack Developer based in **Dhaka, Bangladesh** with **7 years of experience** building production-ready web applications. My main stack is **Laravel + Vue.js**, and I care deeply about writing clean, maintainable code that holds up in the real world.
+I'm a Senior Software Engineer based in **Dhaka, Bangladesh** with **7 years of experience** building production-ready web applications. My main stack is **Laravel + Vue.js**, and I care deeply about writing clean, maintainable code that holds up in the real world.
 
 Beyond the code itself, I enjoy the full lifecycle — from architecting the backend and designing APIs, to containerizing applications with **Docker**, setting up cloud infrastructure on **AWS/GCP**, and automating deployments with **CI/CD pipelines**. If it ships and scales, I'm happy.
 
